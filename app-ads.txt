@@ -1,0 +1,6 @@
+# Replace the line below with your actual AdMob app-ads.txt content
+# Find it in AdMob → Apps → View app-ads.txt
+# It will look like:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
